@@ -1,0 +1,105 @@
+a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header{
+    background-color: black;
+    padding: 33px 0 32px;
+    color: #717171;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu-item{
+    padding-right: 30px;
+}
+
+.menu-link{
+ 
+}
+
+.protitle{
+    display: flex;
+    flex-direction: column;
+    margin-top: 71px;
+    justify-content: center;
+}   
+
+.protitle h1{
+  font-size: 64px;
+  margin-left:718px;
+}
+
+.img-phone1{
+    padding-top: 20px;
+    width: 937px;
+    height: 657px;
+    padding-left: 500px;
+}
+
+.btn01{
+    font-size: 24px;
+    width: 350px;
+    height: 70px;
+    margin-left: 784px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    background-color: purple;
+}
+
+.content_bar{
+   margin-left: 359px;
+}
+
+.content_bar h1{
+    display: flex;
+    padding-left: 494px;
+}
+
+.content {
+    display: inline-block;
+    
+}
+
+#left{
+    width: 560px;
+    height: 444px;
+    float: left;
+}
+
+#right{
+    float: right;
+    padding-right: 460px;
+    
+}
+
+.wariations{
+    display: flex;
+    flex-direction: row;
+
+}
